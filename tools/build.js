@@ -1,7 +1,7 @@
 {
-    "appDir": "../www",
+    "appDir": "../javascript",
     "baseUrl": "js",
-    "dir": "../www-built",
+    "dir": "../javascript",
     "modules": [
         {
             "name": "app"
